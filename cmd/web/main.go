@@ -1,9 +1,9 @@
 package main
 
 import (
-	"bookingproject/pkg/config"
-	"bookingproject/pkg/handlers"
-	"bookingproject/pkg/render"
+	"app/pkg/config"
+	"app/pkg/handlers"
+	"app/pkg/render"
 	"fmt"
 	"github.com/alexedwards/scs/v2"
 	"log"
